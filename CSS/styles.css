@@ -1,0 +1,22 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+
+body{
+	background-color: #adebeb;
+	font-family: 
+}
+h1{
+	font-family: 'Tangerine';
+	font-weight: bolder;
+	font-size: 50px;
+}
+
+#form{
+	background-color: white;
+	border-radius: 10px;
+	width: 75%;
+	margin: auto;
+	padding: 20px;
+}
